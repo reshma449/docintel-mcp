@@ -1,0 +1,20 @@
+ACME Industrial Supplies
+1200 Harbor Blvd, Suite 400
+Oakland, CA 94607
+
+Invoice Number: INV-20441
+Invoice Date: 2026-05-14
+PO Number: PO-88123
+Billed by: ACME Industrial Supplies Ltd
+
+Bill To:
+Northbridge Operations LLC
+55 Market Street
+San Francisco, CA 94105
+
+Item                          Qty     Unit Price     Amount
+Bearing assembly, sealed       12        $340.00    $4,080.00
+Sensor module, 24V              4        $122.50      $490.00
+
+Total Due: $4,570.00
+Payment terms: Net 30
